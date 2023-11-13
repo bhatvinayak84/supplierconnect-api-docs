@@ -1,0 +1,32 @@
+{
+  "InvoiceDeductionLines": [
+    {
+      "Supplier ERP ID": 9100208,
+      "Supplier Name": "Bravo Supplier Inc",
+      "Payment Ref No": 88076951,
+      "Invoice #": 122999,
+      "Total Invoice Amount": 4584,
+      "Deduction Amount": 2274,
+      "Discount Amount": 46.2,
+      "Paid Amount": 4537.8,
+      "Currency": "USD",
+      "Payment Ref Date": "10/06/2023",
+      "Net Invoice Amount": 4537.8,
+      "PO Number": 995533,
+      "Division": "0185 - Buckeye Logistics Operations",
+      "Invoice Date": "09/04/2023",
+      "Invoice Location": "Buckeye Logistic",
+      "UPC": 1068896215380,
+      "Item Description": "PUMPKIN VANILLA COFE CRMR",
+      "Adj Qty": "50",
+      "Unit Price": 45.48,
+      "Adj Amt": 2274,
+      "Code": "6",
+      "Adjustment Reason": "Item invoiced/Not received (shortage)",
+      "PO Creation Date": "09/01/2023",
+      "Original Invoice Number": "70679097",
+      "Source PO Number": "900000333340",
+      "Store Name": "FC004 - Atlanta Shed"
+    }
+  ]
+}

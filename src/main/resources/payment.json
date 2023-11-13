@@ -1,0 +1,42 @@
+[
+ {
+   "LavanteUID": 3001185,
+   "SupplierName": "Churny Company, Inc.",
+   "SupplierName_Normalized": "CHURNYCOINC",
+   "User name": "SC-3001185",
+   "Password": "Y4Oco2x$#j%4",
+   "Export Folder": "3001185_CHURNYCOINC"
+ },
+ {
+   "LavanteUID": 3002813,
+   "SupplierName": "HEINZ NORTH AMERICA DIVISION",
+   "SupplierName_Normalized": "HEINZNORTHAMERICADIVISION",
+   "User name": "SC-3002813",
+   "Password": "eY\"O!?bK0=Tt",
+   "Export Folder": "3002813_HEINZNORTHAMERICADIVISION"
+ },
+ {
+   "LavanteUID": 3003467,
+   "SupplierName": "The Kraft Heinz Company.",
+   "SupplierName_Normalized": "KRAFTHEINZCO",
+   "User name": "SC-3003467",
+   "Password": "pd@c&F$j=s77",
+   "Export Folder": "3003467_KRAFTHEINZCO"
+ },
+ {
+   "LavanteUID": 3003468,
+   "SupplierName": "KRAFT FOODS GROUP INC",
+   "SupplierName_Normalized": "KRAFTFOODSGRPINC",
+   "User name": "SC-3003468",
+   "Password": "86*6/U*$IcHK",
+   "Export Folder": "3003468_KRAFTFOODSGRPINC"
+ },
+ {
+   "LavanteUID": 3003469,
+   "SupplierName": "Kraft Heinz Foods Company",
+   "SupplierName_Normalized": "KRAFTHEINZFOODSCO",
+   "User name": "SC-3003469",
+   "Password": "bLJuK7FSiE?D",
+   "Export Folder": "3003469_KRAFTHEINZFOODSCO"
+ }
+]
